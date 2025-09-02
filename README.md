@@ -1,1 +1,1 @@
-# defi-guardian
+# DeFi Guardian
